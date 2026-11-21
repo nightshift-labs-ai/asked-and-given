@@ -42,3 +42,6 @@ D1 v3 (chosen): ends "and held out his plate." He becomes the one who asks, whic
 
 ## Pick: D1 v3
 It wins on 1 (asking and giving both on the page), and on 2 and 3 (the blade turned toward himself is the true insight: handing over power means taking on the risk yourself; the held-out plate is a reversal shown, not said). The scene is fresh: none of the scaffolds listed above.
+
+Fit: v3 was 296 cp, so I cut "I asked the steam, not him." (268 cp).
+Final pass (criterion 4): "warm from his palm" sat after "scissors" and read as if the scissors were warm. I moved the warmth to "bone handle warm from his palm" and made him wipe the knife instead. 267 cp.

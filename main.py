@@ -3,11 +3,11 @@ import sys
 
 TEXT = (
     "Can I carve this year?\n"
-    "He wiped the bone handle on his apron\n"
-    "and turned the knife around,\n"
+    "He wiped the knife on his apron\n"
+    "and turned it around,\n"
+    "bone handle warm from his palm,\n"
     "blade toward himself,\n"
-    "the way he taught me to pass scissors,\n"
-    "warm from his palm.\n"
+    "the way he taught me to pass scissors.\n"
     "Then he walked the long way round the table,\n"
     "scraped back a guest's chair\n"
     "and held out his plate."
