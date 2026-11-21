@@ -19,10 +19,20 @@ def output_path() -> str:
     return os.path.join(base, "entry.txt")
 
 
+def validate(text: str) -> str | None:
+    """Return an error message, or None if the text passes the gate."""
+    n = len(text)
+    if not 1 <= n <= 280:
+        return f"invalid text: {n} code points (need 1-280)"
+    if not text.strip():
+        return "invalid text: only white space"
+    return None
+
+
 def main() -> int:
-    n = len(TEXT)
-    if not (1 <= n <= 280) or not TEXT.strip():
-        print(f"invalid text: {n} code points", file=sys.stderr)
+    error = validate(TEXT)
+    if error:
+        print(error, file=sys.stderr)
         return 1
     path = output_path()
     os.makedirs(os.path.dirname(path), exist_ok=True)
