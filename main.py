@@ -3,7 +3,6 @@ import sys
 
 TEXT = (
     "Can I carve this year?\n"
-    "I asked the steam, not him.\n"
     "He wiped the bone handle on his apron\n"
     "and turned the knife around,\n"
     "blade toward himself,\n"
