@@ -2,12 +2,16 @@ import os
 import sys
 
 TEXT = (
-    "The agent asks: Send?\n"
-    "I click yes\n"
-    "and keep my hand on the mouse,\n"
-    "the way it stayed out at the kerb\n"
-    "the morning my daughter crossed alone,\n"
-    "holding the shape of hers."
+    "Can I carve this year?\n"
+    "I asked the steam, not him.\n"
+    "He wiped the bone handle on his apron\n"
+    "and turned the knife around,\n"
+    "blade toward himself,\n"
+    "the way he taught me to pass scissors,\n"
+    "warm from his palm.\n"
+    "Then he walked the long way round the table,\n"
+    "scraped back a guest's chair\n"
+    "and held out his plate."
 )
 
 
