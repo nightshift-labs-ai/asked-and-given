@@ -23,8 +23,13 @@ def main() -> int:
         return 1
     path = output_path()
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8", newline="") as f:
-        f.write(TEXT)
+    data = TEXT.encode("utf-8")
+    with open(path, "wb") as f:
+        f.write(data)
+    with open(path, "rb") as f:
+        if f.read() != data:
+            print("output verification failed", file=sys.stderr)
+            return 1
     return 0
 
 
