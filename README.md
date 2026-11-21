@@ -3,7 +3,7 @@ This program (`main.py`, Python 3.13, standard library only) writes one short po
 ```
 The agent asks: Send?
 I click yes
-and leave my hand on the mouse,
+and keep my hand on the mouse,
 the way it stayed out at the kerb
 the morning my daughter crossed alone,
 holding the shape of hers.

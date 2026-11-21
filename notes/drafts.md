@@ -102,3 +102,5 @@ around where it was.
 
 ## Pick
 Kerb r2. Both meet C1. On C2 Kerb r2 wins: the late turn from the mouse to the kerb lands on a physical image ("holding the shape of hers"). On C3 it says something true: saying yes doesn't make the hand let go, because granting is a kind of holding. It also covers both a person and an AI agent, which is the brief's subject. Pen r2 is close but darker and narrower.
+
+Final re-test edit: "leave my hand" became "keep my hand". "Leave" read as letting go, which works against the poem; "keep" matches "stayed" and "holding". Still 165 code points.

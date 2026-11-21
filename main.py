@@ -4,7 +4,7 @@ import sys
 TEXT = (
     "The agent asks: Send?\n"
     "I click yes\n"
-    "and leave my hand on the mouse,\n"
+    "and keep my hand on the mouse,\n"
     "the way it stayed out at the kerb\n"
     "the morning my daughter crossed alone,\n"
     "holding the shape of hers."
